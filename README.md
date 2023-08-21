@@ -103,6 +103,20 @@ Axilla targets enterprises and allows them develop AI applications. They provide
 
 
 
+## [Context](https://context.ai)
+Context is a product analytics platform for LLM applications, including agents. Context gives developers and product people understanding how of users are engaging with their products, 
+and how those products are performing - so they can build better products.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://context.ai/)
+- [Docs](https:/docs.context.ai/)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
